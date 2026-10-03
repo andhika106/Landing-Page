@@ -1,3 +1,3 @@
 Hasil Screenshot Halaman Landing Page Portfolio Website*
 
-<img width="900" height="1600" alt="p" src="https://github.com/user-attachments/assets/ed55eaa7-d6df-4b8d-9f94-144d4ae9d191" />
+<img width="1352" height="605" alt="ass" src="https://github.com/user-attachments/assets/d27312c4-09df-49ab-aadd-cfb9ea2f28d6" />
